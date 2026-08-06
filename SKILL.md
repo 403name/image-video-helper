@@ -64,4 +64,4 @@ When asked to build a media processing pipeline:
 4. Verify the packages exist before generating final code
 
 ---
-last-synced: 2026-08-05 23:28 UTC
+last-synced: 2026-08-06 11:22 UTC
